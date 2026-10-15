@@ -25,11 +25,6 @@ This project focuses on analyzing credit card transactions to identify fraudulen
 - Fraud pattern identification
 - Transaction data visualization
 
-## Project Files
-- `fraud_analysis.ipynb` — Python analysis and exploratory data analysis.
-- Power BI dashboard (`.pbix`) — Interactive fraud analysis report.
-- Processed dataset (`.csv`) — Data prepared for Power BI, if included.
-
 ## Key Learnings
 - Data cleaning and exploratory data analysis
 - Data manipulation using Pandas
